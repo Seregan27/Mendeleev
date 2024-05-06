@@ -2,7 +2,7 @@ body{
     background: linear-gradient(149deg, red 0%,rgba(115,53,134,1) 42%, rgb(29, 41, 156) 72%,  rgb(6, 6, 179)  100%);
     animation: gradient 10s infinite linear;
     background-size: 400%; 
-    width: 1200px;
+    width: 1000px;
   
   height: 1000px;
   
