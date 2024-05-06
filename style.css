@@ -1,10 +1,23 @@
 body{
-    background:linear-gradient(red, rgb(6, 6, 179));
-    width: 1579px;
+    background: linear-gradient(149deg, red 0%,rgba(115,53,134,1) 42%, rgb(29, 41, 156) 72%,  rgb(6, 6, 179)  100%);
+    animation: gradient 10s infinite linear;
+    background-size: 400%; 
+    width: 1200px;
   
-  height: 1675px;
+  height: 1000px;
   
   }
+  @keyframes gradient {
+    0% {
+        background-position: 80% 0%;
+    }
+    50% {
+        background-position: 20% 100%;
+    }
+    100% {
+        background-position: 80% 0%;
+    }
+}
   @media (max-width:768px) {
   
   }
@@ -26,15 +39,11 @@ body{
     border: #181818;
   
   }
-  .button{
-  position: absolute;
-  width: 139px;
-  height: 52px;
-  left: 919px;
-  top: 33px;
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  align-items: center;
-  padding: 20px 36px 20px 36px;
-  }
+      
+.img{
+width: 700px;
+}
+.phy{
+    border: 1px solid rgb(255, 255, 255);
+    width: 350px;
+}
