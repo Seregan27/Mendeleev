@@ -188,7 +188,7 @@ nav a {
 } 
 
 .lan { 
-	background-color: #ffffff); 
+	background-color: #ffffff; 
 } 
 
 .actinide { 
@@ -204,7 +204,7 @@ nav a {
 } 
 
 .d-nonmetal { 
-	background-color: #ffffffe1; 
+	background-color: #ffffff; 
 } 
 
 .patomic-nonmetal { 
@@ -228,11 +228,11 @@ nav a {
 } 
 
 .liquid { 
-	color: darkgreen; 
+	color: rgb(0, 0, 0); 
 } 
 
 .gas { 
-	color: #c00; 
+	color: rgb(0, 0, 0); 
 }
 .Text1{
     font-size: 16px;
