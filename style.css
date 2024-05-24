@@ -237,6 +237,10 @@ nav a {
 .Text1{
     font-size: 16px;
 }
+p{
+	font-size: 10px;
+
+}
 a{
     text-decoration:none;
     color: black;
