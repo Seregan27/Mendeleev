@@ -188,7 +188,7 @@ body{
   } 
   
   .lan { 
-	  background-color: #6f00ff; 
+	  background-color: #ffffff; 
   } 
   
   .actinide { 
@@ -196,15 +196,15 @@ body{
   } 
   
   .al-metal { 
-	  background-color: #c8ff00; 
+	  background-color: #ffffff; 
   } 
   
   .alearth-metal { 
-	  background-color: #b4ff28; 
+	  background-color: #ffffff; 
   } 
   
   .d-nonmetal { 
-	  background-color: #ff5a5a; 
+	  background-color: #ff0000; 
   } 
   
   .patomic-nonmetal { 
@@ -212,19 +212,19 @@ body{
   } 
   
   .pTransition-metal { 
-	  background-color: rgb(255, 0, 98); 
+	  background-color: rgb(255, 255, 255); 
   } 
   
   .metalloid { 
-	  background-color: rgb(195, 0, 255); 
+	  background-color: rgb(255, 255, 255); 
   } 
   
   .n-gas { 
-	  background-color: #ff0000; 
+	  background-color: #ffffff; 
   } 
   
   .trans { 
-	  background-color: #00ff95
+	  background-color: #ffffff
   } 
   
   .liquid { 
@@ -235,10 +235,10 @@ body{
 	  color: rgb(0, 0, 0); 
   }
   .act-group{
-  background-color: #00ff0d;
+  background-color: #ffffff;
   }
   .galogen{
-    background-color: #ffbb00;
+    background-color: #ffffff;
   }
   .Text1{
 	  font-size: 16px;
@@ -251,4 +251,12 @@ body{
 	  text-decoration:none;
 	  color: black;
 	  font-size: 14px;
+  }
+  .n-gas1{
+margin-right: px;
+background-color: #ff0000;
+  }
+  .alearth-metal1{
+    margin-right: px;
+    background-color: green;  
   }
