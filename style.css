@@ -260,3 +260,27 @@ background-color: #ff0000;
     margin-right: px;
     background-color: green;  
   }
+  .red{
+    width: 120px;
+    height: 30px;
+    background-color:#ff0000;
+    border-radius: 2px;
+    font-size: 25px;
+  }
+  .green{
+    width: 240px;
+    height: 80px;
+    background-color:green;
+    border-radius: 2px;
+    font-size: 25px;
+    margin-top: 10px;
+  }
+  .white{
+    width: 240px;
+    height: 80px;
+    background-color:rgb(255, 255, 255);
+    border-radius: 2px;
+    font-size: 25px;
+    margin-top: 10px;
+    border:10px;
+  }
